@@ -1,0 +1,13 @@
+{
+  "name": "memos-on-this-day",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An \"On This Day\" plugin for the Memos web app — revisit what you wrote on this date in previous years.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
